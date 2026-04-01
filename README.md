@@ -3,7 +3,7 @@
 <img width="1704" height="1242" alt="image" src="https://github.com/user-attachments/assets/469ae0c8-cc53-4d6a-9c8e-bc00bceef5b2" />
 
 
-#Koostöös Gemini, Copiloti ning Chatgpt'ga
+* Koostöös Gemini, Copiloti ning Chatgpt'ga
 
 # kodutoo-1
 
