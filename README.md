@@ -1,9 +1,9 @@
-Martin Kullerkupp
-Elektrooniline kell, kellal saab muuta fonti, suurust, värvi, formaati. Samuti saab muuta taustavärvi. Nädalapäeva saab kuvada eesti kui ka inglise keeles.
+#Martin Kullerkupp
+#Elektrooniline kell, kellal saab muuta fonti, suurust, värvi, formaati. Samuti saab muuta taustavärvi. Nädalapäeva saab kuvada eesti kui ka inglise keeles.
 <img width="1704" height="1242" alt="image" src="https://github.com/user-attachments/assets/469ae0c8-cc53-4d6a-9c8e-bc00bceef5b2" />
 
 
-Koostöös Gemini, Copiloti ning Chatgpt'ga
+#Koostöös Gemini, Copiloti ning Chatgpt'ga
 
 # kodutoo-1
 
